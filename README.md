@@ -1,57 +1,58 @@
-Air Cargo Case Study: Data Analysis and Route Optimization
-Overview
-This repository contains my solution and analysis of a logistics optimization case study focused on Alaska-based cargo distribution company "Air Cargo". The analysis was conducted as part of an interview evaluation, where the main objective was to identify inefficiencies, optimize cargo distribution routes, and enhance revenue through strategic data-driven decisions.
+# 📦 Air Cargo Case Study: Data Analysis & Route Optimization
 
-Project Context
-Air Cargo specializes in distributing electronics, food/drink, and pharmaceutical products using two aircraft types (Alpha and Bravo), each with varying capacities and operational costs. The company aims to meet daily distribution volume targets for Fairbanks, Kodiak, and Nome efficiently and cost-effectively.
+This repository contains the data analysis and recommendations I developed for a logistics optimization case study, conducted as part of an interview process. The study focuses on optimizing the cargo distribution routes for Air Cargo, an Alaska-based logistics company.
 
-Key Objectives
-Analyze discrepancies between target and actual distributed volumes.
+---
 
-Evaluate the revenue impact of these discrepancies.
+## 🚀 Overview
 
-Recommend optimized cargo distribution routes.
+Air Cargo transports various goods—including electronics, food/drinks, and pharmaceuticals—via two aircraft (Alpha and Bravo), each with different capacities and operating costs. The goal was to optimize their cargo distribution routes to meet daily volume targets efficiently, reducing costs and maximizing revenue.
 
-Suggest strategic fleet expansions if necessary.
+---
 
-Explore potential to increase revenue, specifically for food/drink products.
+## 🎯 Objectives
 
-Propose strategic integration of a new distribution center.
+- Identify gaps between target and actual volumes distributed.
+- Quantify the financial impact of these gaps.
+- Optimize current distribution routes to improve efficiency.
+- Recommend the ideal aircraft type if the fleet expands.
+- Propose strategies to maximize revenue, particularly in the food/drink category.
+- Integrate a new distribution center efficiently.
 
-Analysis Highlights
-Identified that pharmaceutical and food/drink categories have substantial untapped revenue potential.
+---
 
-Proposed route modifications that resulted in:
+## 📊 Key Insights from Analysis
 
-99% increase in Alpha’s net revenue per mile.
+- Significant untapped revenue in pharmaceutical and food/drink categories.
+- Pharmaceuticals offered the highest revenue potential per kilogram.
+- Current route inefficiencies provided substantial room for revenue improvement.
 
-23% increase in Bravo’s net revenue per mile.
+---
 
-Achieved full compliance with pharmaceutical distribution targets.
+## 💡 Recommendations Implemented
 
-Generated an overall potential revenue increase of 20% through strategic optimization.
+### Alpha Aircraft Route Optimization
+- **Original Route**: Anchorage → Nome → Fairbanks (1095 miles, $60.27/mile)
+- **Optimized Route**: Anchorage → Fairbanks → Nome (792 miles, $120.20/mile)
+  - **Result**: Increased Alpha's net revenue per mile by **99%**.
 
-Methodology
-Conducted exploratory analysis on provided product revenue and volume data.
+### Bravo Aircraft Load Adjustment
+- Adjusted Bravo's load prioritization for Kodiak, fully meeting pharmaceutical targets.
+  - **Result**: Increased Bravo’s net revenue per mile by **23%**.
 
-Calculated potential versus actual revenue generation.
+---
 
-Developed optimization models to enhance efficiency and profitability.
+## 📈 Impact
 
-Tools & Techniques
-Data Analysis
+✅ Achieved all pharmaceutical distribution targets  
+✅ Increased overall potential revenue by **20%**  
+✅ Enhanced operational efficiency through optimized routing  
 
-Revenue Optimization Strategies
+---
 
-Route Efficiency Analysis
+## 🛠️ Methodologies & Tools
 
-Microsoft PowerPoint (for visualization and presentation)
-
-Conclusion & Recommendations
-Optimized route adjustments can significantly increase profitability.
-
-Prioritizing pharmaceuticals in cargo loading improves revenue performance due to higher revenue per kilogram.
-
-Strategic addition of aircraft can be justified based on data-driven insights for long-term profitability.
-
-Please feel free to explore the presentation and detailed findings in this repository. For further discussions or questions, reach out directly via my GitHub contact information.
+- Exploratory Data Analysis (EDA)
+- Revenue Impact Analysis
+- Route Optimization Modeling
+- Visualization and Presentation via Microsoft PowerPoint
